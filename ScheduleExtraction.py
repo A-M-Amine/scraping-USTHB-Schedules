@@ -98,7 +98,7 @@ def pdftoDataFrame(pdfFile, page):
     return df
 
 
-def csvToJson(df, outputJson):
+def dataFrameToJson(df, outputJson):
 
     outDict = {
         "year": "2",    # <----  specify year here
@@ -122,10 +122,10 @@ def csvToJson(df, outputJson):
 
 
 def run():
-    # choose input and output files pdfToCsv("MIV.pdf", "1")
+    # choose input file and the desired schedule page pdfToCsv("MIV.pdf", "1")
     df = pdftoDataFrame("MIV.pdf", "1")
     # pass the dataframe and the output file csvTojson(df, "data.json")
-    csvToJson(df, "data.json")
+    dataFrameToJson(df, "data.json")
 
     print("Done")
 
