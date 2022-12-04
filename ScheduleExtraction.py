@@ -29,8 +29,8 @@ def getDayData(df, index):
                     "cours": {
                         "Time": time[i - 1],
                         "Subject": details.group(1).strip(),
-                        "loc": details.group(2).strip(),
-                        "prof": details.group(3).strip()
+                        "loc": details.group(2).strip().replace(".",""),
+                        "prof": details.group(3).strip() if details.group(3) else "no name"
                     },
                     "groups": {}
                 }
@@ -51,7 +51,7 @@ def getDayData(df, index):
                         "G1": {
                             "Time": time[i - 1],
                             "Subject": details.group(2).strip(),
-                            "loc": details.group(1).strip(),
+                            "loc": details.group(1).strip().replace(".",""),
                             "prof": details.group(3).strip() if details.group(3) else "no name"
                         }
                     }
@@ -66,7 +66,7 @@ def getDayData(df, index):
                         "G2": {
                             "Time": time[i - 1],
                             "Subject": details.group(2).strip(),
-                            "loc": details.group(1).strip(),
+                            "loc": details.group(1).strip().replace(".",""),
                             "prof": details.group(3).strip() if details.group(3) else "no name"
                         }
                     }
@@ -125,7 +125,7 @@ def run():
     # choose input file and the desired schedule page pdfToCsv("MIV.pdf", "1")
     df = pdftoDataFrame("MIV.pdf", "1")
     # pass the dataframe and the output file csvTojson(df, "data.json")
-    dataFrameToJson(df, "data.json")
+    dataFrameToJson(df, "M2_MIV.json")
 
     print("Done")
 
