@@ -1,5 +1,7 @@
 # scraping-USTHB-Schedules
 
+Successfully extracted schedules can be found in <a href="https://github.com/A-M-Amine/scraping-USTHB-Schedules/tree/main/Extracted">Extracted</a> folder
+
 # Requirements #
 
 ```
