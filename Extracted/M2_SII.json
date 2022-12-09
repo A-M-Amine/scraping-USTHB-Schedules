@@ -1,0 +1,304 @@
+{
+    "specialty": "SII",
+    "year": "2",
+    "Semestre": "1",
+    "days": {
+        "Sam": [],
+        "Dim": [
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "D.MINING",
+                        "loc": "TP130",
+                        "prof": "Houacine"
+                    },
+                    "G3": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "P .CONTR",
+                        "loc": "407",
+                        "prof": "ISLI"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "09:40 - 11:10",
+                    "Subject": "RI",
+                    "loc": "R8",
+                    "prof": "KECHID"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "D.MINING",
+                        "loc": "TPC3A",
+                        "prof": "Houacine"
+                    },
+                    "G3": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "REP CON",
+                        "loc": "TPC6",
+                        "prof": "MOULAI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "P .CONTR",
+                        "loc": "TPC3A",
+                        "prof": "ISLI"
+                    },
+                    "G2": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "REP CON",
+                        "loc": "TPC3B",
+                        "prof": "MOULAI"
+                    },
+                    "G3": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "D.MINING",
+                        "loc": "TPC6",
+                        "prof": "Houacine"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "REP CON",
+                        "loc": "TPC6",
+                        "prof": "MOULAI"
+                    },
+                    "G2": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "P .CONTR",
+                        "loc": "TPC3B",
+                        "prof": "ISLI"
+                    }
+                }
+            }
+        ],
+        "Lun": [
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "D.MINING",
+                        "loc": "TPC7",
+                        "prof": "DRIAS"
+                    },
+                    "G3": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "VISION",
+                        "loc": "TP130",
+                        "prof": "ABADA"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "P .CONTR",
+                        "loc": "446",
+                        "prof": "ISLI"
+                    },
+                    "G3": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "D.MINING",
+                        "loc": "444",
+                        "prof": "DRIAS"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "D.MINING",
+                        "loc": "410",
+                        "prof": "DRIAS"
+                    },
+                    "G2": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "ANGLAIS",
+                        "loc": "LABO LANG1",
+                        "prof": "ZENOUN"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "13:00 - 14:30",
+                    "Subject": "TAL",
+                    "loc": "149T",
+                    "prof": "TAMEN"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {
+                    "Time": "14:40 - 16:10",
+                    "Subject": "P .CONTR",
+                    "loc": "SC",
+                    "prof": "ISLI"
+                },
+                "groups": {}
+            }
+        ],
+        "Mar": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "VISION",
+                        "loc": "TP127",
+                        "prof": "ABADA"
+                    },
+                    "G2": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "RI",
+                        "loc": "TP132",
+                        "prof": "KHENNAK"
+                    },
+                    "G3": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "P .CONTR",
+                        "loc": "TPC9",
+                        "prof": "ISLI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "VISION",
+                        "loc": "TP128",
+                        "prof": "ABADA"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "11:20 - 12:50",
+                    "Subject": "D.MINING",
+                    "loc": "238T",
+                    "prof": "DRIAS"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {
+                    "Time": "13:00 - 14:30",
+                    "Subject": "VISION",
+                    "loc": "C7",
+                    "prof": "ABADA"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "P .CONTR",
+                        "loc": "442",
+                        "prof": "ISLI"
+                    }
+                }
+            }
+        ],
+        "Mer": [
+            {
+                "cours": {
+                    "Time": "08:00 - 09:30",
+                    "Subject": "REP CON",
+                    "loc": "149T",
+                    "prof": "KHELLAF"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G3": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "ANGLAIS",
+                        "loc": "LABO LANG",
+                        "prof": "ZENOUN"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "ANGLAIS",
+                        "loc": "LABO LANG",
+                        "prof": "ZENOUN"
+                    },
+                    "G2": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "TAL",
+                        "loc": "TPC3B",
+                        "prof": "TAMEN"
+                    }
+                }
+            }
+        ],
+        "Jeu": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "TAL",
+                        "loc": "TP132",
+                        "prof": "TAMEN"
+                    },
+                    "G3": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "RI",
+                        "loc": "TP126",
+                        "prof": "KHENNAK"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "RI",
+                        "loc": "TP126",
+                        "prof": "KHENNAK"
+                    },
+                    "G3": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "TAL",
+                        "loc": "TP132",
+                        "prof": "TAMEN"
+                    }
+                }
+            }
+        ]
+    }
+}

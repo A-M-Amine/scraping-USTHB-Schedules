@@ -1,0 +1,364 @@
+{
+    "specialty": "RSD",
+    "year": "2",
+    "Semestre": "1",
+    "days": {
+        "Sam": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "CAL.PAR",
+                        "loc": "TP127",
+                        "prof": "BOUGHACI"
+                    },
+                    "G3": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "CAR",
+                        "loc": "TP130",
+                        "prof": "BOULKRINAT"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "RES MOB",
+                        "loc": "TP131",
+                        "prof": "Saadi"
+                    },
+                    "G3": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "CAR",
+                        "loc": "TP130",
+                        "prof": "BOULKRINAT"
+                    },
+                    "G4": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "CAL.PAR",
+                        "loc": "TP127",
+                        "prof": "BOUGHACI"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "11:20 - 12:50",
+                    "Subject": "CAR",
+                    "loc": "SC",
+                    "prof": "BOULKRINAT"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "CAR",
+                        "loc": "TP130",
+                        "prof": "BOULKRINAT"
+                    },
+                    "G3": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "RES MOB",
+                        "loc": "TP131",
+                        "prof": "Saadi"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "CAR",
+                        "loc": "TP130",
+                        "prof": "BOULKRINAT"
+                    },
+                    "G2": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "CAL.PAR",
+                        "loc": "TP127",
+                        "prof": "BOUGHACI"
+                    },
+                    "G4": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "RES MOB",
+                        "loc": "TP131",
+                        "prof": "Saadi"
+                    }
+                }
+            }
+        ],
+        "Dim": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "RES S F",
+                        "loc": "TP132",
+                        "prof": "BENKAOUHA"
+                    },
+                    "G2": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "ING-RES",
+                        "loc": "TP122",
+                        "prof": "zeraoulia"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "11:20 - 12:50",
+                    "Subject": "RES S F",
+                    "loc": "143T",
+                    "prof": "BENKAOUHA"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "ING-RES",
+                        "loc": "TPC5",
+                        "prof": "Zeraoulia"
+                    },
+                    "G3": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "RES S F",
+                        "loc": "TP126",
+                        "prof": "BENKAOUHA"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "14:40 - 16:10",
+                    "Subject": "RES MOB",
+                    "loc": "E8",
+                    "prof": "BENCHAIBA"
+                },
+                "groups": {}
+            }
+        ],
+        "Lun": [
+            {
+                "cours": {},
+                "groups": {
+                    "G4": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "ing-res",
+                        "loc": "TP132",
+                        "prof": "Zeraoulia"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "RES S F",
+                        "loc": "TPC6",
+                        "prof": "BENKAOUHA"
+                    },
+                    "G3": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "ING-RES",
+                        "loc": "TP122",
+                        "prof": "Zeraoulia"
+                    },
+                    "G4": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "SYS.DISTR",
+                        "loc": "TP132",
+                        "prof": "Seddiki"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "ANGLAIS",
+                        "loc": "Labo langue B2",
+                        "prof": "BOUDEFASSA"
+                    },
+                    "G3": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "SYS.DISTR",
+                        "loc": "TPC3B",
+                        "prof": "Seddiki"
+                    },
+                    "G4": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "RES S F",
+                        "loc": "TPC8",
+                        "prof": "BENKAOUHA"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "RES MOB",
+                        "loc": "TPC4",
+                        "prof": "Saadi"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "14:40 - 16:10",
+                    "Subject": "ing-res",
+                    "loc": "167T",
+                    "prof": "zeraoulia"
+                },
+                "groups": {}
+            }
+        ],
+        "Mar": [
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "CAL.PAR",
+                        "loc": "408",
+                        "prof": "BOUGHACI"
+                    },
+                    "G3": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "ANGLAIS",
+                        "loc": "LABO LANG1",
+                        "prof": "BOUDEFASSA"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "SYS.DISTR",
+                        "loc": "TP126",
+                        "prof": "Seddiki"
+                    },
+                    "G2": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "ANGLAIS",
+                        "loc": "LABO LANG2",
+                        "prof": "BOUDEFASSA"
+                    },
+                    "G3": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "CAL.PAR",
+                        "loc": "TP127",
+                        "prof": "BOUGHACI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "SYS.DISTR",
+                        "loc": "TP131",
+                        "prof": "Seddiki"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "13:00 - 14:30",
+                    "Subject": "CAL.PAR",
+                    "loc": "E1",
+                    "prof": "BOUGHACI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {
+                    "Time": "14:40 - 16:10",
+                    "Subject": "SYS.DISTR",
+                    "loc": "D7",
+                    "prof": "Seddiki"
+                },
+                "groups": {}
+            }
+        ],
+        "Mer": [
+            {
+                "cours": {},
+                "groups": {
+                    "G4": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "CAR",
+                        "loc": "TP127",
+                        "prof": "BOULKRINAT"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G4": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "CAR",
+                        "loc": "TP127",
+                        "prof": "BOULKRINAT"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "11:20 - 12:50",
+                    "Subject": "RES MOB",
+                    "loc": "C2",
+                    "prof": "BENCHAIBA"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "CAR",
+                        "loc": "TPC8",
+                        "prof": "BOULKRINAT"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "CAR",
+                        "loc": "TPC8",
+                        "prof": "BOULKRINAT"
+                    },
+                    "G3": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "CAL.PAR",
+                        "loc": "375",
+                        "prof": "BOUGHACI"
+                    }
+                }
+            }
+        ],
+        "Jeu": []
+    }
+}

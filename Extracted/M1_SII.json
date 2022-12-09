@@ -1,0 +1,350 @@
+{
+    "specialty": "SII",
+    "year": "1",
+    "Semestre": "1",
+    "days": {
+        "Sam": [],
+        "Dim": [
+            {
+                "cours": {},
+                "groups": {
+                    "G3": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "MEPS",
+                        "loc": "304",
+                        "prof": "AMROUS"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "09:40 - 11:10",
+                    "Subject": "MEPS",
+                    "loc": "E1",
+                    "prof": "AMROUS"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {
+                    "Time": "11:20 - 12:50",
+                    "Subject": "RES PB",
+                    "loc": "E8",
+                    "prof": "AZZOUNE"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "RES PB",
+                        "loc": "314",
+                        "prof": "AZZOUNE"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "MEPS",
+                        "loc": "358",
+                        "prof": "AMROUS"
+                    },
+                    "G3": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "RES PB",
+                        "loc": "170",
+                        "prof": "AZZOUNE"
+                    }
+                }
+            }
+        ],
+        "Lun": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "COMPIL",
+                        "loc": "TP131",
+                        "prof": "no name"
+                    },
+                    "G2": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "ASGBD",
+                        "loc": "TP129",
+                        "prof": "no name"
+                    },
+                    "G3": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "SYST",
+                        "loc": "TP128",
+                        "prof": "Larbi"
+                    },
+                    "G4": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "COMPLEXITE",
+                        "loc": "TP127",
+                        "prof": "MOULAI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "SYST",
+                        "loc": "TP131",
+                        "prof": "Larbi"
+                    },
+                    "G2": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "COMPLEXITE",
+                        "loc": "TP129",
+                        "prof": "MOULAI"
+                    },
+                    "G3": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "ASGBD",
+                        "loc": "TP128",
+                        "prof": "no name"
+                    },
+                    "G4": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "COMPIL",
+                        "loc": "TP127",
+                        "prof": "no name"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G3": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "COMPIL",
+                        "loc": "TPC3A",
+                        "prof": "no name"
+                    },
+                    "G4": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "ASGBD",
+                        "loc": "TP127",
+                        "prof": "no name"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "COMPLEXITE",
+                        "loc": "TP131",
+                        "prof": "MOULAI"
+                    },
+                    "G2": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "COMPIL",
+                        "loc": "TP129",
+                        "prof": "no name"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G3": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "COMPLEXITE",
+                        "loc": "TP129",
+                        "prof": "MOULAI"
+                    },
+                    "G4": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "SYST",
+                        "loc": "TP127",
+                        "prof": "Larbi"
+                    }
+                }
+            }
+        ],
+        "Mar": [
+            {
+                "cours": {
+                    "Time": "08:00 - 09:30",
+                    "Subject": "SYST",
+                    "loc": "167T",
+                    "prof": "ZEBBANE"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "ANGLAIS",
+                        "loc": "LABO LANG",
+                        "prof": "ZENOUN"
+                    },
+                    "G2": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "COMPLEXITE",
+                        "loc": "451",
+                        "prof": "DRIAS"
+                    },
+                    "G3": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "SYST",
+                        "loc": "439",
+                        "prof": "ZEBBANE"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "SYST",
+                        "loc": "154",
+                        "prof": "ZEBBANE"
+                    },
+                    "G2": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "ANGLAIS",
+                        "loc": "LABO LANG",
+                        "prof": "ZENOUN"
+                    },
+                    "G3": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "COMPIL",
+                        "loc": "310",
+                        "prof": "ALIOUANE"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "COMPLEXITE",
+                        "loc": "R5",
+                        "prof": "DRIAS"
+                    },
+                    "G3": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "ANGLAIS",
+                        "loc": "LABO LANG",
+                        "prof": "ZENOUN"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G3": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "COMPLEXITE",
+                        "loc": "C1",
+                        "prof": "DRIAS"
+                    }
+                }
+            }
+        ],
+        "Mer": [
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "COMPIL",
+                        "loc": "TPC7",
+                        "prof": "ALIOUANE"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "09:40 - 11:10",
+                    "Subject": "COMPLEXITE",
+                    "loc": "C1",
+                    "prof": "DRIAS"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {
+                    "Time": "11:20 - 12:50",
+                    "Subject": "COMPIL",
+                    "loc": "C1",
+                    "prof": "ALIOUANE"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "COMPIL",
+                        "loc": "TPC3B",
+                        "prof": "ALIOUANE"
+                    },
+                    "G2": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "SYST",
+                        "loc": "307",
+                        "prof": "ZEBBANE"
+                    }
+                }
+            }
+        ],
+        "Jeu": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "ASGBD",
+                        "loc": "TPC8",
+                        "prof": "AZZOUZ"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "09:40 - 11:10",
+                    "Subject": "ASGBD",
+                    "loc": "K",
+                    "prof": "AZZOUZ"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "RES PB",
+                        "loc": "404",
+                        "prof": "AZZOUNE"
+                    },
+                    "G2": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "MEPS",
+                        "loc": "243",
+                        "prof": "AMROUS"
+                    }
+                }
+            }
+        ]
+    }
+}

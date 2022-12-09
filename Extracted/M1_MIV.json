@@ -1,0 +1,246 @@
+{
+    "specialty": "MIV",
+    "year": "1",
+    "Semestre": "1",
+    "days": {
+        "Sam": [],
+        "Dim": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "Anglais",
+                        "loc": "LABO LANG",
+                        "prof": "BOUDEFASSA"
+                    },
+                    "G2": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "ABDD",
+                        "loc": "TPC3A",
+                        "prof": "KESSI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "TAI",
+                        "loc": "TPC3B",
+                        "prof": "DELLOUL"
+                    },
+                    "G2": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "Anglais",
+                        "loc": "LABO LANG",
+                        "prof": "BOUDEFASSA"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "11:20 - 12:50",
+                    "Subject": "Résolution de problèmes",
+                    "loc": "D6",
+                    "prof": "LARABI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {
+                    "Time": "13:00 - 14:30",
+                    "Subject": "TAI",
+                    "loc": "D6",
+                    "prof": "SETITRA"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "Résolution de problèmes",
+                        "loc": "TP129",
+                        "prof": "SEBAI"
+                    },
+                    "G2": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "TAI",
+                        "loc": "D5",
+                        "prof": "SETITRA"
+                    }
+                }
+            }
+        ],
+        "Lun": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "Syst",
+                        "loc": "TPC4",
+                        "prof": "BENCHAIBA"
+                    },
+                    "G2": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "TAI",
+                        "loc": "TPC5",
+                        "prof": "DELLOUL"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "09:40 - 11:10",
+                    "Subject": "ABDD",
+                    "loc": "D6",
+                    "prof": "DJIROUNE"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "TAI",
+                        "loc": "405",
+                        "prof": "SETITRA"
+                    },
+                    "G2": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "Syst",
+                        "loc": "166",
+                        "prof": "BENCHAIBA"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "Syst",
+                        "loc": "TP127",
+                        "prof": "BENCHAIBA"
+                    }
+                }
+            }
+        ],
+        "Mar": [
+            {
+                "cours": {
+                    "Time": "08:00 - 09:30",
+                    "Subject": "Syst",
+                    "loc": "E6",
+                    "prof": "BENCHAIBA"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {
+                    "Time": "09:40 - 11:10",
+                    "Subject": "Multimédia",
+                    "loc": "E6",
+                    "prof": "LARABI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "Syst",
+                        "loc": "249",
+                        "prof": "BENCHAIBA"
+                    },
+                    "G2": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "Résolution de problèmes",
+                        "loc": "TP122",
+                        "prof": "SEBAI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "ABDD",
+                        "loc": "TPC5",
+                        "prof": "KESSI"
+                    },
+                    "G2": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "Algo",
+                        "loc": "TPC4",
+                        "prof": "MESSAOUDI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "Algo",
+                        "loc": "TPC4",
+                        "prof": "MESSAOUDI"
+                    }
+                }
+            }
+        ],
+        "Mer": [
+            {
+                "cours": {
+                    "Time": "08:00 - 09:30",
+                    "Subject": "Algo",
+                    "loc": "R4",
+                    "prof": "DRIAS"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "Algo",
+                        "loc": "406",
+                        "prof": "MESSAOUDI"
+                    },
+                    "G2": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "Multimédia",
+                        "loc": "TPC5",
+                        "prof": "SEBAI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "Multimédia",
+                        "loc": "TPC5",
+                        "prof": "SEBAI"
+                    },
+                    "G2": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "Algo",
+                        "loc": "387",
+                        "prof": "MESSAOUDI"
+                    }
+                }
+            }
+        ],
+        "Jeu": []
+    }
+}

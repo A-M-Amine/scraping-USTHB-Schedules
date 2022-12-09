@@ -1,0 +1,260 @@
+{
+    "specialty": "MIV",
+    "year": "2",
+    "Semestre": "1",
+    "days": {
+        "Sam": [],
+        "Dim": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "Système d'Exploitation Mobile",
+                        "loc": "162",
+                        "prof": "OURAHMOUNE"
+                    },
+                    "G2": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "TH JEU",
+                        "loc": "118",
+                        "prof": "DAHMANI"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "09:40 - 11:10",
+                    "Subject": "Visualisation de Données",
+                    "loc": "135D",
+                    "prof": "LARABI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {
+                    "Time": "11:20 - 12:50",
+                    "Subject": "Système d'Exploitation Mobile",
+                    "loc": "117D",
+                    "prof": "OURAHMOUNE"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "Visualisation de Données",
+                        "loc": "TP128",
+                        "prof": "G2"
+                    },
+                    "G2": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "Système d'Exploitation Mobile",
+                        "loc": "TPC4",
+                        "prof": "OURAHMOUNE"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "Visualisation de Données",
+                        "loc": "TP130",
+                        "prof": "no name"
+                    }
+                }
+            }
+        ],
+        "Lun": [
+            {
+                "cours": {
+                    "Time": "08:00 - 09:30",
+                    "Subject": "PROG RES",
+                    "loc": "SC",
+                    "prof": "EL NAGGER"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "Connaissances et Raisonnement",
+                        "loc": "TPC4",
+                        "prof": "KHELLAF"
+                    },
+                    "G2": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "Atelier Créatif",
+                        "loc": "TPC5",
+                        "prof": "LARABI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "Atelier Créatif",
+                        "loc": "TPC5",
+                        "prof": "LARABI"
+                    },
+                    "G2": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "Synthèse d'Image",
+                        "loc": "TP128",
+                        "prof": "Dahmane"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "Synthèse d'Image",
+                        "loc": "TP132",
+                        "prof": "Dahmane"
+                    }
+                }
+            }
+        ],
+        "Mar": [
+            {
+                "cours": {
+                    "Time": "08:00 - 09:30",
+                    "Subject": "GP-",
+                    "loc": "103D",
+                    "prof": "HACHEMI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {
+                    "Time": "09:40 - 11:10",
+                    "Subject": "Synthèse d'Image",
+                    "loc": "103D",
+                    "prof": "Dahmane"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "Système d'Exploitation Mobile",
+                        "loc": "TPC5",
+                        "prof": "OURAHMOUNE"
+                    },
+                    "G2": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "GP-",
+                        "loc": "TP127",
+                        "prof": "BENSALAH"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "PROG RES",
+                        "loc": "TPC6",
+                        "prof": "no name"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "GP-",
+                        "loc": "TPC7",
+                        "prof": "BENSALAH"
+                    },
+                    "G2": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "PROG RES",
+                        "loc": "TPC6",
+                        "prof": "no name"
+                    }
+                }
+            }
+        ],
+        "Mer": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "TH JEU",
+                        "loc": "402",
+                        "prof": "DAHMANI"
+                    },
+                    "G2": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "Système d'Exploitation Mobile",
+                        "loc": "338",
+                        "prof": "OURAHMOUNE"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "09:40 - 11:10",
+                    "Subject": "Connaissances et Raisonnement",
+                    "loc": "R4",
+                    "prof": "KHELLAF"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {
+                    "Time": "11:20 - 12:50",
+                    "Subject": "TH JEU",
+                    "loc": "D5",
+                    "prof": "DAHMANI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "TH JEU",
+                        "loc": "TPC5",
+                        "prof": "G2"
+                    },
+                    "G2": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "Connaissances et Raisonnement",
+                        "loc": "TPC6",
+                        "prof": "belhadi"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "TH JEU",
+                        "loc": "TPC3A",
+                        "prof": "no name"
+                    }
+                }
+            }
+        ],
+        "Jeu": []
+    }
+}

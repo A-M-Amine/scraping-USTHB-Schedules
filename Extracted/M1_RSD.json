@@ -1,0 +1,355 @@
+{
+    "specialty": "RSD",
+    "year": "1",
+    "Semestre": "1",
+    "days": {
+        "Sam": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "Res Prot",
+                        "loc": "TP122",
+                        "prof": "KOUCHI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G3": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "Res Prot",
+                        "loc": "TP122",
+                        "prof": "KOUCHI"
+                    }
+                }
+            }
+        ],
+        "Dim": [
+            {
+                "cours": {
+                    "Time": "08:00 - 09:30",
+                    "Subject": "GP",
+                    "loc": "SC",
+                    "prof": "KHEMISSA"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "MEPS",
+                        "loc": "R3",
+                        "prof": "no name"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "ASGBD",
+                        "loc": "TP131",
+                        "prof": "BERKANI"
+                    },
+                    "G3": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "Anglais",
+                        "loc": "LABO LANG1",
+                        "prof": "BOUDEFASSA"
+                    },
+                    "G4": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "Res Prot",
+                        "loc": "TP122",
+                        "prof": "Bouachi"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "Anglais",
+                        "loc": "LABO LANG",
+                        "prof": "BOUDEFASSA"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "Res Prot",
+                        "loc": "TP122",
+                        "prof": "Bouachi"
+                    },
+                    "G3": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "Algo.Av.et Compl",
+                        "loc": "TP132",
+                        "prof": "NEMOUCHI"
+                    }
+                }
+            }
+        ],
+        "Lun": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "Algo.Av.et Compl",
+                        "loc": "454",
+                        "prof": "MOSTE"
+                    },
+                    "G2": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "Algo.Av.et Compl",
+                        "loc": "TPC3B",
+                        "prof": "NEMOUCHI"
+                    },
+                    "G3": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "GP",
+                        "loc": "TPC8",
+                        "prof": "BOUCHAM"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "09:40 - 11:10",
+                    "Subject": "Algo.Av.et Compl",
+                    "loc": "SC",
+                    "prof": "MOSTEGHANEMI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {
+                    "Time": "11:20 - 12:50",
+                    "Subject": "Res Prot",
+                    "loc": "SC",
+                    "prof": "DERDER"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "Anglais",
+                        "loc": "LABO LANG1",
+                        "prof": "BOUDEFASSA"
+                    },
+                    "G2": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "Algo.Av.et Compl",
+                        "loc": "267",
+                        "prof": "MOSTE"
+                    },
+                    "G3": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "ASGBD",
+                        "loc": "TP128",
+                        "prof": "FRIHI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G4": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "ASGBD",
+                        "loc": "TPC8",
+                        "prof": "FRIHI"
+                    }
+                }
+            }
+        ],
+        "Mar": [
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "ASGBD",
+                        "loc": "TPC5",
+                        "prof": "BERKANI"
+                    },
+                    "G3": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "Algo.Av.et Compl",
+                        "loc": "TPC8",
+                        "prof": "no name"
+                    },
+                    "G4": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "GP",
+                        "loc": "TPC3B",
+                        "prof": "BOUCHAM"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "GP",
+                        "loc": "TPC3B",
+                        "prof": "BOUCHAM"
+                    },
+                    "G2": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "MEPS",
+                        "loc": "449",
+                        "prof": "no name"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "Algo.Av.et Compl",
+                        "loc": "TPC3B",
+                        "prof": "MESSAOUDI"
+                    },
+                    "G2": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "Syst.Expl",
+                        "loc": "401",
+                        "prof": "MOUSSAOUI"
+                    }
+                }
+            }
+        ],
+        "Mer": [
+            {
+                "cours": {
+                    "Time": "08:00 - 09:30",
+                    "Subject": "MEPS",
+                    "loc": "P",
+                    "prof": "GHARBI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {
+                    "Time": "09:40 - 11:10",
+                    "Subject": "ASGBD",
+                    "loc": "149T",
+                    "prof": "GUEBAILI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "SYST",
+                        "loc": "TPC6",
+                        "prof": "MEHDI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G3": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "SYST",
+                        "loc": "TP131",
+                        "prof": "MEHDI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G4": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "Algo.Av.et Compl",
+                        "loc": "TP131",
+                        "prof": "MESSAOUDI"
+                    }
+                }
+            }
+        ],
+        "Jeu": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "SYST",
+                        "loc": "360",
+                        "prof": "ABDELLAHOUM"
+                    },
+                    "G3": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "MEPS",
+                        "loc": "160",
+                        "prof": "no name"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "09:40 - 11:10",
+                    "Subject": "SYST",
+                    "loc": "244T",
+                    "prof": "MOUSSAOUI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "SYST",
+                        "loc": "TP132",
+                        "prof": "MEHDI"
+                    },
+                    "G2": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "GP",
+                        "loc": "TP130",
+                        "prof": "BOUCHAM"
+                    },
+                    "G3": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "SYST",
+                        "loc": "450",
+                        "prof": "ABDELLAHOUM"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G4": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "SYST",
+                        "loc": "TP131",
+                        "prof": "MEHDI"
+                    }
+                }
+            }
+        ]
+    }
+}
