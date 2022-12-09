@@ -4,8 +4,6 @@ import json
 import re
 
 
-
-
 def getDayData(df, index):
 
     data = (df.iloc[index, :]).values
@@ -18,6 +16,7 @@ def getDayData(df, index):
         if not pd.isnull(data[i]):  # check if data is null before adding
 
             ele = data[i].replace("\r", " ")   # remove new lines from data
+
 
             if re.search('cours', ele, re.S):
 
@@ -38,54 +37,58 @@ def getDayData(df, index):
                 result.append(dayData)
             else:
 
-                dctG1 = {}
-                dctG2 = {}
-
-                if re.search('G1', ele, re.S):
-
-                    g1Regex = "G1.+?\((.+?)\)(.+?),([^G2]+)?"
-
-                    details = re.search(g1Regex, ele, flags=re.S | re.M)
-
-                    dctG1 = {
-                        "G1": {
-                            "Time": time[i - 1],
-                            "Subject": details.group(2).strip(),
-                            "loc": details.group(1).strip().replace(".",""),
-                            "prof": details.group(3).strip() if details.group(3) else "no name"
-                        }
-                    }
-
-                if re.search('G2', ele, re.S):
-
-                    g2Regex = "G2.*\((.+)\)(.+),(.*)"
-
-                    details = re.search(g2Regex, ele, flags=re.S | re.M)
-
-                    dctG2 = {
-                        "G2": {
-                            "Time": time[i - 1],
-                            "Subject": details.group(2).strip(),
-                            "loc": details.group(1).strip().replace(".",""),
-                            "prof": details.group(3).strip() if details.group(3) else "no name"
-                        }
-                    }
-
-                dayData = {
-                    "cours": {},
-                    "groups": {}
-                }
-
-                if dctG1:
-                    dayData["groups"].update(dctG1)
-
-                if dctG2:
-                    dayData["groups"].update(dctG2)
-
+                dayData = groupsExtraction(ele, time[i - 1])
                 result.append(dayData)
 
     return result
 
+
+# the default maximum number of groups can be changed 
+def groupsExtraction(text, time, number = 4):
+
+    if(number < 2):
+        number = 2
+
+    extractedList = []
+    
+    for i in range(number):
+
+        if re.search('G'+ str(i+1)+":", text, re.S):
+
+            regex = "G"+str(i+1)+".+?\((.+?)\)(.+?),([^:]+)?"
+
+            details = re.search(regex, text, flags=re.S | re.M)
+
+            
+            if details.group(3) and details.group(3).strip() != "":
+                prof = details.group(3).strip()
+                prof = prof.split(" ")[0]
+            else:
+                prof = "no name"
+
+            dct = {
+                "G"+ str(i+1): {
+                    "Time": time,
+                    "Subject": details.group(2).strip(),
+                    "loc": details.group(1).strip().replace(".",""),
+                    "prof": prof
+                }
+            }
+
+            extractedList.append(dct)
+
+    dayData = {
+        "cours": {},
+        "groups": {}
+    }
+
+    
+    for group in extractedList:
+        if group:
+            dayData["groups"].update(group)
+    
+    
+    return dayData
 
 
 def pdftoDataFrame(pdfFile, page):
@@ -101,6 +104,7 @@ def pdftoDataFrame(pdfFile, page):
 def dataFrameToJson(df, outputJson):
 
     outDict = {
+        "specialty": "MIV", # <----  specify specialty here
         "year": "2",    # <----  specify year here
         "Semestre": "1",    # <----  specify semestre
         "days": {}
@@ -123,9 +127,9 @@ def dataFrameToJson(df, outputJson):
 
 def run():
     # choose input file and the desired schedule page pdfToCsv("MIV.pdf", "1")
-    df = pdftoDataFrame("MIV.pdf", "1")
+    df = pdftoDataFrame("data/SSI.pdf", "1")
     # pass the dataframe and the output file csvTojson(df, "data.json")
-    dataFrameToJson(df, "M2_MIV.json")
+    dataFrameToJson(df, "Extracted/M1_SSI.json")
 
     print("Done")
 
