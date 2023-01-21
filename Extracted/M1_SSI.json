@@ -1,0 +1,271 @@
+{
+    "specialty": "SSI",
+    "year": "1",
+    "Semestre": "1",
+    "days": {
+        "Sam": [],
+        "Dim": [
+            {
+                "cours": {
+                    "Time": "08:00 - 09:30",
+                    "Subject": "SYST",
+                    "loc": "R3",
+                    "prof": "BELKHIR"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {
+                    "Time": "09:40 - 11:10",
+                    "Subject": "VTBDA",
+                    "loc": "E5",
+                    "prof": "ALIMAZIGHI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "ARITH.MOD",
+                        "loc": "217",
+                        "prof": "DAHMANI"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "13:00 - 14:30",
+                    "Subject": "ASPECT JUR",
+                    "loc": "E1",
+                    "prof": "BERBAR"
+                },
+                "groups": {}
+            }
+        ],
+        "Lun": [
+            {
+                "cours": {
+                    "Time": "08:00 - 09:30",
+                    "Subject": "ARITH.MOD",
+                    "loc": "117D",
+                    "prof": "DAHMANI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "ARCH.RES",
+                        "loc": "TP126",
+                        "prof": "ZAFOUNE"
+                    },
+                    "G2": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "ARITH.MOD",
+                        "loc": "TPC3A",
+                        "prof": "DAHMANI"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "11:20 - 12:50",
+                    "Subject": "ARCH.RES",
+                    "loc": "117D",
+                    "prof": "ZAFOUNE"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "ANGLAIS",
+                        "loc": "LABO LANG2",
+                        "prof": "G2"
+                    },
+                    "G2": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "ARCH.RES",
+                        "loc": "TP126",
+                        "prof": "ZAFOUNE"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "ANGLAIS",
+                        "loc": "LABO LANG",
+                        "prof": "no name"
+                    }
+                }
+            }
+        ],
+        "Mar": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "SYST",
+                        "loc": "453",
+                        "prof": "BELKHIR"
+                    },
+                    "G2": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "INTR.SECU",
+                        "loc": "389",
+                        "prof": "Mekliche"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "INTR.SECU",
+                        "loc": "TP132",
+                        "prof": "EL"
+                    },
+                    "G2": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "SYST",
+                        "loc": "310",
+                        "prof": "BELKHIR"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "ARITH.MOD",
+                        "loc": "C4",
+                        "prof": "DAHMANI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "ARITH.MOD",
+                        "loc": "TP130",
+                        "prof": "DAHMANI"
+                    }
+                }
+            }
+        ],
+        "Mer": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "VTBDA",
+                        "loc": "TPC6",
+                        "prof": "AZZOUZ"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "SYST",
+                        "loc": "TPC4",
+                        "prof": "OURAHMOUNE"
+                    },
+                    "G2": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "VTBDA",
+                        "loc": "TPC6",
+                        "prof": "AZZOUZ"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "INTR.SECU",
+                        "loc": "TP132",
+                        "prof": "EL"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "SYST",
+                        "loc": "TPC9",
+                        "prof": "OURAHMOUNE"
+                    }
+                }
+            }
+        ],
+        "Jeu": [
+            {
+                "cours": {
+                    "Time": "08:00 - 09:30",
+                    "Subject": "INTR.SECU",
+                    "loc": "103D",
+                    "prof": "BERBAR"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "INTR.SECU",
+                        "loc": "407",
+                        "prof": "Mekliche"
+                    },
+                    "G2": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "COMPLEXITE",
+                        "loc": "446",
+                        "prof": "MOSTEGHANEMI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "COMPLEXITE",
+                        "loc": "416",
+                        "prof": "MOSTEGHANEMI"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "13:00 - 14:30",
+                    "Subject": "COMPLEXITE",
+                    "loc": "E8",
+                    "prof": "MOSTEGHANEMI"
+                },
+                "groups": {}
+            }
+        ]
+    }
+}

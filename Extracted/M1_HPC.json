@@ -1,0 +1,217 @@
+{
+    "specialty": "HPC",
+    "year": "1",
+    "Semestre": "1",
+    "days": {
+        "Sam": [],
+        "Dim": [
+            {
+                "cours": {
+                    "Time": "08:00 - 09:30",
+                    "Subject": "ANAL-Num",
+                    "loc": "TPC9",
+                    "prof": "LAICHE"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "ANAL-Num",
+                        "loc": "307",
+                        "prof": "LAICHE"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "Complexité",
+                        "loc": "TPC9",
+                        "prof": "BABA ALI"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "13:00 - 14:30",
+                    "Subject": "Complexité",
+                    "loc": "TPC9",
+                    "prof": "BABA ALI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "Complexité",
+                        "loc": "TPC9",
+                        "prof": "BABA ALI"
+                    }
+                }
+            }
+        ],
+        "Lun": [
+            {
+                "cours": {
+                    "Time": "08:00 - 09:30",
+                    "Subject": "ARCH-Av",
+                    "loc": "TPC9",
+                    "prof": "BABA ALI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "ARCH-Av",
+                        "loc": "TPC9",
+                        "prof": "BABA ALI"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "11:20 - 12:50",
+                    "Subject": "BaseDeDonnÃ©es",
+                    "loc": "TPC9",
+                    "prof": "KESSI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "ANAL-Num",
+                        "loc": "TPC7",
+                        "prof": "LAICHE"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "ARCH-Av",
+                        "loc": "TPC7",
+                        "prof": "BABA ALI"
+                    }
+                }
+            }
+        ],
+        "Mar": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "BaseDeDonnÃ©es",
+                        "loc": "TP131",
+                        "prof": "KESSI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "Complexité",
+                        "loc": "TP130",
+                        "prof": "BABA ALI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "Anglaiss",
+                        "loc": "LABO LANG2",
+                        "prof": "no name"
+                    }
+                }
+            }
+        ],
+        "Mer": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "SYSTM",
+                        "loc": "TP128",
+                        "prof": "G1"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "SYSTM",
+                        "loc": "TPC9",
+                        "prof": "GUEBLI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "SYSTM",
+                        "loc": "TPC9",
+                        "prof": "GUEBLI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "SYSTM",
+                        "loc": "TP128",
+                        "prof": "Larbi"
+                    }
+                }
+            }
+        ],
+        "Jeu": [
+            {
+                "cours": {
+                    "Time": "09:40 - 11:10",
+                    "Subject": "Mod-Sim",
+                    "loc": "TPC9",
+                    "prof": "BABA ALI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "Mod-Sim",
+                        "loc": "TPC9",
+                        "prof": "BABA ALI"
+                    }
+                }
+            }
+        ]
+    }
+}

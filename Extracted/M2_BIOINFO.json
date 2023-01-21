@@ -1,0 +1,181 @@
+{
+    "specialty": "BIOINFO",
+    "year": "2",
+    "Semestre": "1",
+    "days": {
+        "Sam": [],
+        "Dim": [
+            {
+                "cours": {
+                    "Time": "08:00 - 09:30",
+                    "Subject": "MCA",
+                    "loc": "TPC6",
+                    "prof": "GHARBI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "Anglais",
+                        "loc": "LABO LANG1",
+                        "prof": "ZENOUN"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "MCA",
+                        "loc": "R3",
+                        "prof": "GHARBI"
+                    }
+                }
+            }
+        ],
+        "Lun": [
+            {
+                "cours": {
+                    "Time": "08:00 - 09:30",
+                    "Subject": "SystEmb",
+                    "loc": "113D",
+                    "prof": "GUEBLI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "SystEmb",
+                        "loc": "405",
+                        "prof": "GUEBLI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "CalPar-Arch",
+                        "loc": "459",
+                        "prof": "MEHDI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "CalPar-Arch",
+                        "loc": "TPC3A",
+                        "prof": "MEHDI"
+                    }
+                }
+            }
+        ],
+        "Mar": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "Réalité Virutelle",
+                        "loc": "TPC4",
+                        "prof": "OURAHMOUNE"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "09:40 - 11:10",
+                    "Subject": "Réalité Virutelle",
+                    "loc": "D4",
+                    "prof": "OURAHMOUNE"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {
+                    "Time": "11:20 - 12:50",
+                    "Subject": "FouilleDeDonnées",
+                    "loc": "D4",
+                    "prof": "Baba ali"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "FouilleDeDonnées",
+                        "loc": "TPC3A",
+                        "prof": "Baba ali"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "FouilleDeDonnées",
+                        "loc": "TPC3A",
+                        "prof": "Baba ali"
+                    }
+                }
+            }
+        ],
+        "Mer": [
+            {
+                "cours": {
+                    "Time": "08:00 - 09:30",
+                    "Subject": "Bio",
+                    "loc": "103D",
+                    "prof": "EL NAGGER"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {
+                    "Time": "09:40 - 11:10",
+                    "Subject": "CalPar-Arch",
+                    "loc": "320",
+                    "prof": "MEHDI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "SystEmb",
+                        "loc": "TP127",
+                        "prof": "no name"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "Bio",
+                        "loc": "TP132",
+                        "prof": "EL NAGGER"
+                    }
+                }
+            }
+        ],
+        "Jeu": []
+    }
+}

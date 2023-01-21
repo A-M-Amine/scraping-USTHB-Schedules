@@ -1,0 +1,260 @@
+{
+    "specialty": "BIOINFO",
+    "year": "1",
+    "Semestre": "1",
+    "days": {
+        "Sam": [
+            {
+                "cours": {
+                    "Time": "08:00 - 09:30",
+                    "Subject": "Bio-Stat",
+                    "loc": "SC",
+                    "prof": "SELMANE"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "Bio-Stat",
+                        "loc": "SC",
+                        "prof": "SELMANE"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "Bio-Stat",
+                        "loc": "TPC5",
+                        "prof": "SELMANE"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "Bio-Stat",
+                        "loc": "TPC5",
+                        "prof": "SELMANE"
+                    }
+                }
+            }
+        ],
+        "Dim": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "Bio-Math",
+                        "loc": "245",
+                        "prof": "Benbaziz"
+                    },
+                    "G2": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "BIOGEN",
+                        "loc": "444",
+                        "prof": "no name"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "09:40 - 11:10",
+                    "Subject": "Bio-Math",
+                    "loc": "117D",
+                    "prof": "Benbaziz"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "SystProgScript",
+                        "loc": "TPC5",
+                        "prof": "BENZAID"
+                    },
+                    "G2": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "Bio-Math",
+                        "loc": "437",
+                        "prof": "Benbaziz"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "SystProgScript",
+                        "loc": "TP129",
+                        "prof": "BENZAID"
+                    }
+                }
+            }
+        ],
+        "Lun": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "BIOGEN",
+                        "loc": "TPC6",
+                        "prof": "KHEDIM"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "09:40 - 11:10",
+                    "Subject": "BIOGEN",
+                    "loc": "113D",
+                    "prof": "KHEDIM"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {
+                    "Time": "11:20 - 12:50",
+                    "Subject": "GP",
+                    "loc": "113D",
+                    "prof": "BOUCHAM"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {
+                    "Time": "13:00 - 14:30",
+                    "Subject": "SystProgScript",
+                    "loc": "D6",
+                    "prof": "BENZAID"
+                },
+                "groups": {}
+            }
+        ],
+        "Mar": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "SystProgScript",
+                        "loc": "TP128",
+                        "prof": "BENZAID"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "Anglais",
+                        "loc": "LABO",
+                        "prof": "G2"
+                    },
+                    "G2": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "SystProgScript",
+                        "loc": "TPC4",
+                        "prof": "BENZAID"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "11:20 - 12:50",
+                    "Subject": "Complexité",
+                    "loc": "R5",
+                    "prof": "BOUKHEDOUMA"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "14:40 -\r16:10",
+                        "Subject": "Anglais",
+                        "loc": "LABO",
+                        "prof": "ZENOUN"
+                    }
+                }
+            }
+        ],
+        "Mer": [
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "Complexité",
+                        "loc": "454",
+                        "prof": "BOUKHEDOUMA"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "Complexité",
+                        "loc": "TPC4",
+                        "prof": "BOUKHEDOUMA"
+                    }
+                }
+            }
+        ],
+        "Jeu": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "GP",
+                        "loc": "TP130",
+                        "prof": "BOUCHAM"
+                    },
+                    "G2": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "BIOGEN",
+                        "loc": "TPC3A",
+                        "prof": "no name"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "GP",
+                        "loc": "TP130",
+                        "prof": "BOUCHAM"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "11:20 - 12:50",
+                    "Subject": "GEE",
+                    "loc": "SC",
+                    "prof": "CHETTA"
+                },
+                "groups": {}
+            }
+        ]
+    }
+}

@@ -17,12 +17,15 @@ def getDayData(df, index):
 
             ele = data[i].replace("\r", " ")   # remove new lines from data
 
+            
 
             if re.search('cours', ele, re.S):
 
                 coursRegex = "(.+)cours ?\((.+)\)(.*)"
 
                 details = re.search(coursRegex, ele, flags=re.S | re.M)
+                
+                
 
                 dayData = {
                     "cours": {
@@ -104,7 +107,7 @@ def pdftoDataFrame(pdfFile, page):
 def dataFrameToJson(df, outputJson):
 
     outDict = {
-        "specialty": "MIV", # <----  specify specialty here
+        "specialty": "BIOINFO", # <----  specify specialty here
         "year": "2",    # <----  specify year here
         "Semestre": "1",    # <----  specify semestre
         "days": {}
@@ -127,9 +130,9 @@ def dataFrameToJson(df, outputJson):
 
 def run():
     # choose input file and the desired schedule page pdfToCsv("MIV.pdf", "1")
-    df = pdftoDataFrame("data/SSI.pdf", "1")
+    df = pdftoDataFrame("data/BIOINFO.pdf", "2")
     # pass the dataframe and the output file csvTojson(df, "data.json")
-    dataFrameToJson(df, "Extracted/M1_SSI.json")
+    dataFrameToJson(df, "Extracted/M2_BIOINFO.json")
 
     print("Done")
 

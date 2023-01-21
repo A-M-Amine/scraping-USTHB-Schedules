@@ -1,0 +1,264 @@
+{
+    "specialty": "BIGDATA",
+    "year": "1",
+    "Semestre": "1",
+    "days": {
+        "Sam": [],
+        "Dim": [
+            {
+                "cours": {
+                    "Time": "08:00 - 09:30",
+                    "Subject": "OPL",
+                    "loc": "E106 (math)",
+                    "prof": "OUAFI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": ") OPL",
+                        "loc": "E106 (math",
+                        "prof": "OUAFI"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "11:20 - 12:50",
+                    "Subject": "CPSI",
+                    "loc": "E106 (math)",
+                    "prof": "OUAFI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": ") CPSI",
+                        "loc": "E106 (math",
+                        "prof": "HAMRANI"
+                    }
+                }
+            }
+        ],
+        "Lun": [
+            {
+                "cours": {
+                    "Time": "08:00 - 09:30",
+                    "Subject": "SSAD",
+                    "loc": "315T",
+                    "prof": "NACER"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "GP",
+                        "loc": "TPC8",
+                        "prof": "BOUCHAM"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "SSAD",
+                        "loc": "TPC7",
+                        "prof": "NACER"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "ANGLAIS",
+                        "loc": "LABO LANG",
+                        "prof": "ZENOUN"
+                    },
+                    "G2": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "GP",
+                        "loc": "TPC3B",
+                        "prof": "BOUCHAM"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "POO",
+                        "loc": "TP130",
+                        "prof": "Seddiki"
+                    }
+                }
+            }
+        ],
+        "Mar": [
+            {
+                "cours": {
+                    "Time": "08:00 - 09:30",
+                    "Subject": "BADO",
+                    "loc": "SC",
+                    "prof": "ALIMAZIGHI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {
+                    "Time": "09:40 - 11:10",
+                    "Subject": "VT",
+                    "loc": "113D",
+                    "prof": "AZZOUZ"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "BADO",
+                        "loc": "416",
+                        "prof": "ALIMAZIGHI"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "13:00 - 14:30",
+                    "Subject": "POO",
+                    "loc": "113D",
+                    "prof": "Seddiki"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {
+                    "Time": "14:40 - 16:10",
+                    "Subject": "GP",
+                    "loc": "113D",
+                    "prof": "MAHDAOUI"
+                },
+                "groups": {}
+            }
+        ],
+        "Mer": [
+            {
+                "cours": {
+                    "Time": "08:00 - 09:30",
+                    "Subject": "TH.ORD",
+                    "loc": "C7",
+                    "prof": "BOUDHAR"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "PRAVAN",
+                        "loc": "TP130",
+                        "prof": "BOUBENIA"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "SSAD",
+                        "loc": "TPC3A",
+                        "prof": "NACER"
+                    },
+                    "G2": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "PRAVAN",
+                        "loc": "TP130",
+                        "prof": "BOUBENIA"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "SSAD",
+                        "loc": "TP129",
+                        "prof": "NACER"
+                    }
+                }
+            }
+        ],
+        "Jeu": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "TH.ORD",
+                        "loc": "416",
+                        "prof": "BOUDHAR"
+                    },
+                    "G2": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "GR.BIGD",
+                        "loc": "418",
+                        "prof": "ABBAS"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "GR.BIGD",
+                        "loc": "410",
+                        "prof": "ABBAS"
+                    },
+                    "G2": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "TH.ORD",
+                        "loc": "444",
+                        "prof": "BOUDHAR"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "11:20 - 12:50",
+                    "Subject": "GR.BIGD",
+                    "loc": "D4",
+                    "prof": "ABBAS"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {
+                    "Time": "13:00 - 14:30",
+                    "Subject": "PRAVAN",
+                    "loc": "D3",
+                    "prof": "BOUBENIA"
+                },
+                "groups": {}
+            }
+        ]
+    }
+}

@@ -1,0 +1,251 @@
+{
+    "specialty": "BIGDATA",
+    "year": "2",
+    "Semestre": "1",
+    "days": {
+        "Sam": [],
+        "Dim": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "OPTDIS",
+                        "loc": "454",
+                        "prof": "BOUMESBAH"
+                    },
+                    "G2": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "TBI-SIG",
+                        "loc": "TPC8",
+                        "prof": "MEKAHLIA"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "TBI-SIG",
+                        "loc": "TPC8",
+                        "prof": "MEKAHLIA"
+                    },
+                    "G2": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "TIAD",
+                        "loc": "TPC7",
+                        "prof": "NECIR"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "Anglais",
+                        "loc": "LABO LANG",
+                        "prof": "ZENOUN"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "Anglais",
+                        "loc": "LABO LANG1",
+                        "prof": "ZENOUN"
+                    },
+                    "G2": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "SOLO",
+                        "loc": "TPC7",
+                        "prof": "DAHMANI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": ") OPTDIS",
+                        "loc": "E205 (TP math",
+                        "prof": "BOUMESBAH"
+                    }
+                }
+            }
+        ],
+        "Lun": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "OPTDIS",
+                        "loc": "444",
+                        "prof": "BOUMESBAH"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "09:40 - 11:10",
+                    "Subject": "ANADISS",
+                    "loc": "C3",
+                    "prof": "HAMRANI ep ABDELLA"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "ANADISS",
+                        "loc": "TP131",
+                        "prof": "HAMRANI"
+                    },
+                    "G2": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": ") OPTDIS",
+                        "loc": "E105 (math",
+                        "prof": "BOUMESBAH"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "13:00 - 14:30",
+                    "Subject": "TIAD",
+                    "loc": "D5",
+                    "prof": "NECIR"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "TIAD",
+                        "loc": "TPC4",
+                        "prof": "NECIR"
+                    },
+                    "G2": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "ANADISS",
+                        "loc": "TP131",
+                        "prof": "HAMRANI"
+                    }
+                }
+            }
+        ],
+        "Mar": [
+            {
+                "cours": {
+                    "Time": "08:00 - 09:30",
+                    "Subject": "TBI-SIG",
+                    "loc": "R3",
+                    "prof": "MEKAHLIA"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {
+                    "Time": "09:40 - 11:10",
+                    "Subject": "SOLO",
+                    "loc": "C4",
+                    "prof": "DAHMANI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {
+                    "Time": "11:20 - 12:50",
+                    "Subject": "BDABD",
+                    "loc": "E5",
+                    "prof": "FRIHI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "BDABD",
+                        "loc": "TP126",
+                        "prof": "FRIHI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "BDABD",
+                        "loc": "TP127",
+                        "prof": "FRIHI"
+                    }
+                }
+            }
+        ],
+        "Mer": [],
+        "Jeu": [
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "DESIN",
+                        "loc": "162",
+                        "prof": "MIHOUBI"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "09:40 - 11:10",
+                    "Subject": "DESIN",
+                    "loc": "113D",
+                    "prof": "MIHOUBI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "DESIN",
+                        "loc": "245",
+                        "prof": "MIHOUBI"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "13:00 - 14:30",
+                    "Subject": "OPTDIS",
+                    "loc": "E105 (math)",
+                    "prof": "CHERGUI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {
+                    "Time": "14:40 - 16:10",
+                    "Subject": "OPTDIS",
+                    "loc": "E105 (math)",
+                    "prof": "CHERGUI"
+                },
+                "groups": {}
+            }
+        ]
+    }
+}

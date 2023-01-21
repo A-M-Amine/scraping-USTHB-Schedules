@@ -1,0 +1,333 @@
+{
+    "specialty": "IL",
+    "year": "1",
+    "Semestre": "1",
+    "days": {
+        "Sam": [],
+        "Dim": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "MPDL",
+                        "loc": "363",
+                        "prof": "HACHEMI"
+                    },
+                    "G2": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "ENT DON",
+                        "loc": "TPC7",
+                        "prof": "SELMOUNE"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "ASS QUAL",
+                        "loc": "TPC3A",
+                        "prof": "CHABOUNI"
+                    },
+                    "G3": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "MPDL",
+                        "loc": "441",
+                        "prof": "HACHEMI"
+                    },
+                    "G4": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "ENT DON",
+                        "loc": "TPC6",
+                        "prof": "SELMOUNE"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "11:20 - 12:50",
+                    "Subject": "ENT DON",
+                    "loc": "E1",
+                    "prof": "SELMOUNE"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "MPDL",
+                        "loc": "430D",
+                        "prof": "HACHEMI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "ASS QUAL",
+                        "loc": "TPC5",
+                        "prof": "CHABOUNI"
+                    }
+                }
+            }
+        ],
+        "Lun": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "REP CON",
+                        "loc": "446",
+                        "prof": "ISLI"
+                    },
+                    "G2": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "ANGLAIS",
+                        "loc": "LABO LANG",
+                        "prof": "BOUDEFASSA"
+                    },
+                    "G3": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "ASS QUAL",
+                        "loc": "375",
+                        "prof": "CHABOUNI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "ASS QUAL",
+                        "loc": "442",
+                        "prof": "CHABOUNI"
+                    },
+                    "G3": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "ANGLAIS",
+                        "loc": "LABO LANG",
+                        "prof": "BOUDEFASSA"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "11:20 - 12:50",
+                    "Subject": "REP CON",
+                    "loc": "C1",
+                    "prof": "ISLI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "13:00 - 14:30",
+                        "Subject": "ASS QUAL",
+                        "loc": "412",
+                        "prof": "CHABOUNI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "CPT AVANC",
+                        "loc": "TPC5",
+                        "prof": "Saadi"
+                    },
+                    "G3": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "ASS QUAL",
+                        "loc": "TPC3A",
+                        "prof": "CHABOUNI"
+                    }
+                }
+            }
+        ],
+        "Mar": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "MPDL",
+                        "loc": "TPC3A",
+                        "prof": "ABBACI"
+                    },
+                    "G4": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "SIC",
+                        "loc": "TP130",
+                        "prof": "MAHDAOUI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "MPDL",
+                        "loc": "TPC6",
+                        "prof": "ABBACI"
+                    },
+                    "G3": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "REP CON",
+                        "loc": "TPC9",
+                        "prof": "ISLI"
+                    },
+                    "G4": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "MPDL",
+                        "loc": "TP131",
+                        "prof": "HACHEMI"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "ANGLAIS",
+                        "loc": "LABO LANG2",
+                        "prof": "BOUDEFASSA"
+                    },
+                    "G2": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "REP CON",
+                        "loc": "TPC9",
+                        "prof": "ISLI"
+                    },
+                    "G3": {
+                        "Time": "11:20 - 12:50",
+                        "Subject": "MPDL",
+                        "loc": "TP132",
+                        "prof": "HACHEMI"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "13:00 - 14:30",
+                    "Subject": "SIC",
+                    "loc": "125T",
+                    "prof": "MAHDAOUI"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {
+                    "Time": "14:40 - 16:10",
+                    "Subject": "MPDL",
+                    "loc": "W",
+                    "prof": "HACHEMI"
+                },
+                "groups": {}
+            }
+        ],
+        "Mer": [
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "SIC",
+                        "loc": "TP131",
+                        "prof": "MAHDAOUI"
+                    },
+                    "G3": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "ENT DON",
+                        "loc": "TP126",
+                        "prof": "SELMOUNE"
+                    },
+                    "G4": {
+                        "Time": "08:00 - 09:30",
+                        "Subject": "CPT AVANC",
+                        "loc": "TP122",
+                        "prof": "Saadi"
+                    }
+                }
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G1": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "ENT DON",
+                        "loc": "TP126",
+                        "prof": "SELMOUNE"
+                    },
+                    "G2": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "SIC",
+                        "loc": "TP131",
+                        "prof": "MAHDAOUI"
+                    },
+                    "G3": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "CPT AVANC",
+                        "loc": "TP122",
+                        "prof": "Saadi"
+                    },
+                    "G4": {
+                        "Time": "09:40 - 11:10",
+                        "Subject": "CPT AVANC",
+                        "loc": "TPC3B",
+                        "prof": "CHABOUNI"
+                    }
+                }
+            },
+            {
+                "cours": {
+                    "Time": "11:20 - 12:50",
+                    "Subject": "ASS QUAL",
+                    "loc": "C7",
+                    "prof": "haddouche epse che"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {
+                    "Time": "13:00 - 14:30",
+                    "Subject": "CPT AVANC",
+                    "loc": "143T",
+                    "prof": "Saadi"
+                },
+                "groups": {}
+            },
+            {
+                "cours": {},
+                "groups": {
+                    "G2": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "CPT AVANC",
+                        "loc": "TPC6",
+                        "prof": "Saadi"
+                    },
+                    "G3": {
+                        "Time": "14:40 - 16:10",
+                        "Subject": "SIC",
+                        "loc": "TP130",
+                        "prof": "MAHDAOUI"
+                    }
+                }
+            }
+        ],
+        "Jeu": []
+    }
+}
